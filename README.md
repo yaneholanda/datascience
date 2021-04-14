@@ -7,20 +7,20 @@
 # Yane Sarmento
 <sub>*Estudante* at Instituto Federal de Educação, Ciência e Tecnologia do Ceará</sub>
 
-Como estudante e entusiasta de Data Science, eu busco combinar skills analíticos, matemáticos, habilidade para trabalhar em grupo, proatividade e atenção aos detalhes. Aplicando, nos últimos anos, Machine Learning a problemas reais, desenvolvi um pensamento crítico e skills de resolução de problemas.
+Como estudante e entusiasta de Data Science, eu busco combinar skills analíticos, matemáticos, habilidade para trabalhar em grupo, proatividade e atenção aos detalhes. Aplicando, nos últimos anos, Machine Learning a situações reais, desenvolvi um pensamento crítico e skills de resolução de problemas.
 
 
 **Background in:** Python, Machine Learning, Data Visualization.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/yaneholanda)
-* [Medium](https://www.medium.com)
+* [Medium](https://www.medium.com/@yanesarmento)
 
 
 ## Projetos:
 Veja meus projetos publicados:
 
-* **Primeiro projeto:**
+* **Analisando ações da bolsa com Python:** https://bit.ly/2OMZjNV
 
 
 ---
