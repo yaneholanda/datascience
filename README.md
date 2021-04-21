@@ -21,7 +21,7 @@ Como estudante e entusiasta de Data Science, eu busco combinar skills analítico
 Veja meus projetos publicados:
 
 * **Analisando ações da bolsa com Python:** https://bit.ly/2OMZjNV
-
+* **Analisando a Pesquisa de Satisfação de clientes de Telecomunicações, com Python:** https://bit.ly/3n4ZDo4
 
 ---
 
