@@ -15,6 +15,7 @@ Como estudante e entusiasta de Data Science, eu busco combinar skills analítico
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/yaneholanda)
 * [Medium](https://www.medium.com/@yanesarmento)
+* [Site Portfólio](https://yaneholanda.github.io/portfoliods/pt/)
 
 
 ## Projetos:
