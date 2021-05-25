@@ -24,6 +24,7 @@ Veja meus projetos publicados:
 * **Analisando ações da bolsa com Python:** https://bit.ly/2OMZjNV
 * **Analisando a Pesquisa de Satisfação de clientes de Telecomunicações, com Python:** https://bit.ly/3n4ZDo4
 * **Prevendo o tipo de Estrela utilizando Machine Learning:** https://bit.ly/3bJ2s9F
+* **Detectando câncer de mama, utilizando Machine Learning:** https://bit.ly/3vkNVZB
 
 ---
 
